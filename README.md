@@ -28,6 +28,9 @@ A matriz de confusão e o relatório de classificação são impressos na saída
 
 Bibliotecas Utilizadas
 tensorflow: Para a construção e treinamento do modelo de Deep Learning.
+
 sklearn.metrics: Para gerar a matriz de confusão e o relatório de classificação.
+
 numpy: Para operações numéricas.
+
 matplotlib.pyplot: Para visualizar a matriz de confusão.
